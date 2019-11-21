@@ -1,0 +1,35 @@
+body{
+    font-size: 200%;
+    background-image: url('https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80');
+    background-size: cover;
+}
+#searchResultsText{
+	margin: 1em 0 1em 0;
+    display:block;
+    color:blue;
+}
+#searchResults{
+    margin-top: 1em;
+    color:blue;
+}
+
+.bookPublish{
+	border-bottom: thin solid black;
+	margin-bottom: 1em;
+}
+.bookTitleText, .bookAuthorText{
+	font-weight: bold;
+	margin-bottom: 0.5em;
+}
+.bookAuthorText{
+	margin-top: 0.5em;
+}
+.bookAuthor{
+	margin-bottom: 0.5em;
+}
+.bookPublishText,.bookPublish{
+	font-size: 0.8em;
+}
+#previous{
+	margin-right: 1em;
+}
